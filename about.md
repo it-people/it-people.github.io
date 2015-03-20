@@ -4,6 +4,5 @@ title: About
 permalink: /about/
 ---
 
- This community was created to help newcomers become IT People.
- 
- 
+Это сообщество было создано чтобы помочь новичкам обрести себя в IT.
+
