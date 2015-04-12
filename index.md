@@ -11,7 +11,7 @@ layout: page
 
 
 Ruby on Rails
-2. [Проблемы при старте проекта](carated)
+2. [Проблемы при старте проекта](start_new_project)
 
 Прежде чем задать вопрос - прочитай http://segfault.kiev.ua/smart-questions-ru.html | Встречи сообщества рубистов Харькова - http://www.meetup.com/kharkov-rb/
 
